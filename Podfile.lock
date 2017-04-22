@@ -1,0 +1,16 @@
+PODS:
+  - UMengAnalytics-NO-IDFA (4.2.5)
+
+DEPENDENCIES:
+  - UMengAnalytics-NO-IDFA (from `./UMengAnalytics-NO-IDFA.podspec`)
+
+EXTERNAL SOURCES:
+  UMengAnalytics-NO-IDFA:
+    :podspec: "./UMengAnalytics-NO-IDFA.podspec"
+
+SPEC CHECKSUMS:
+  UMengAnalytics-NO-IDFA: 436b2f659ac7d4193f37467fc684b82d865fbab5
+
+PODFILE CHECKSUM: 195009b275ef324257db0be6164597161a55e898
+
+COCOAPODS: 1.2.1
